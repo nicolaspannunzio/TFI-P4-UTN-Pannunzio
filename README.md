@@ -5,8 +5,11 @@ Tecnicatura Universitaria en Programación a Distancia (TUPaD) — **UTN**
 
 **Alumno:** Nicolás A. Pannunzio
 
-***Video de demostración*** <br>
-| https://drive.google.com/drive/folders/1Y8SWSsWyabUmJdoPvApVUcpvFILzzAyI?usp=drive_link |
+| | |
+|---|---|
+| **Repositorio** | https://github.com/nicolaspannunzio/TFI-P4-UTN-Pannunzio |
+| **Video de demostración** | https://drive.google.com/drive/folders/1Y8SWSsWyabUmJdoPvApVUcpvFILzzAyI?usp=drive_link |
+
 ---
 
 ## Food Store
@@ -183,4 +186,6 @@ Abrir **http://localhost:5173** (usar `localhost` y no `127.0.0.1`, para que la 
 
 ## Autor
 
-**Nicolás A. Pannunzio** — [LinkedIn](https://www.linkedin.com/in/nicolas-a-pannunzio-/)
+**Nicolás A. Pannunzio** – Full Stack Developer & QA Automation
+
+🔗 [Perfil de LinkedIn](https://www.linkedin.com/in/nicolas-a-pannunzio-/)
